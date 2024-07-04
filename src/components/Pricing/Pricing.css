@@ -1,0 +1,9 @@
+/* PricingCarousel.css */
+.slick-center {
+  transform: scale(1.1);
+  transition: all 0.3s ease-in-out;
+}
+
+.slick-slide {
+  padding: 20px;
+}
