@@ -7,7 +7,7 @@ const Choose= () => {
       <div className="flex flex-col lg:flex-row items-center">
         
         {/* Image on the left */}
-        <div className="lg:w-1/2 mb-8 lg:mb-0 pr-4">
+        <div className="lg:w-1/2 mb-8 lg:mb-0 pr-4 pl-3">
           <img 
             src="https://www.promotedge.com/wp-content/uploads/2023/09/8-Reasons-Why-a-Website-is-Important-for-Your-Business-Success-1-1.webp" 
             alt="Team member" 
