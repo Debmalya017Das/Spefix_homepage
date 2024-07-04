@@ -1,7 +1,7 @@
-import banner from './banner.jpg';
+
 const Home = (props) => {
   return (
-    <div className="h-max bg-cover bg-center h-full bg-[url('${banner}')] rounded-b-[50px]" >
+    <div className="h-max bg-cover bg-center h-full bg-hero-pattern rounded-b-[50px]" >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 mb-8 md:mb-0">
