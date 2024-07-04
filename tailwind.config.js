@@ -8,7 +8,7 @@ export default {
     extend: {
       textColor: ['active'],
       backgroundImage: {
-        'hero-pattern': "url('./banner.jpg')",
+        'hero-pattern': "url('/banner.jpg')",
       }
     },
   },
